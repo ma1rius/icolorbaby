@@ -22,7 +22,7 @@
 
 **Need help with the app?**
 
-Please email us at: **[support@icolorbaby.com](mailto:support@yourdomain.com)**  
+Please email us at: **[support@icolorbaby.com](mailto:marscobruno@gmail.com)**  
 Or open an issue here on GitHub.
 
 ---
