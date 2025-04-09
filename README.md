@@ -40,8 +40,8 @@ A: Yes! iColorBaby is designed for children 2–6 and has no ads or external lin
 ## 🔗 Useful Links
 
 - [App Store Link](https://apps.apple.com/app/idXXXXXXXXX) *(coming soon)*
-- [Privacy Policy](https://github.com/ma1rius/icolorbaby/blob/main/GPDR%20PRIVACY%20POLCY))
-- [Terms of Use](https://yourdomain.com/terms)
+- [Privacy Policy](https://github.com/ma1rius/icolorbaby/blob/main/GPDR%20PRIVACY%20POLCY)
+- [Terms of Use]- [Terms of Use]([https://yourdomain.com/terms](https://github.com/ma1rius/icolorbaby/blob/main/TERMS%20%26%20CONDITIONS))
 
 ---
 
